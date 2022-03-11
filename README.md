@@ -7,12 +7,17 @@
 
 - macOS 12.1
 
-- VSCode
+- Visual Studio Code
 
 - MyDQL
 
 
+## 工夫したところ
 
+- 様々な条件を把握するために
+
+  - $SESSIONを多用している
+    
 
 
 
